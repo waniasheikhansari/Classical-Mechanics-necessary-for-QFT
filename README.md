@@ -1,1 +1,0 @@
-# Classical-Mechanics-necessary-for-QFT
